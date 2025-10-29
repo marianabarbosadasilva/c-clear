@@ -8,5 +8,9 @@ header{
     border-bottom: solid 2px rgb(128,0,128);
     padding: 20px;
     font-size: 32px;
-    color:rgb(128,0,128)
+    color:rgb(128,0,128);
+}
+
+section{
+  background: rgb(255,192,203);
 }
